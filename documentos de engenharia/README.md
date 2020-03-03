@@ -1,1 +1,2 @@
-essa pasta mama meu bao
+essa pasta deve guardar somente desenhos tecnicos e demais documentos de engenharia de software
+
